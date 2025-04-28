@@ -8,3 +8,6 @@ Training robust computer vision models typically requires large amounts of annot
 This project leverages diffusion models to generate synthetic satellite images of bombed and not bombed fields, expanding the limited real-world dataset.
 We aim to evaluate whether such synthetic data can help improve classification models' performance when real data is limited.
 
+## Project structure 
+
+TBD

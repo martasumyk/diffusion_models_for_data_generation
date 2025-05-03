@@ -2,3 +2,6 @@ torch
 torchvision
 transformers
 datasets
+matplotlib
+numpy
+opencv-python

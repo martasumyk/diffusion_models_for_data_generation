@@ -11,11 +11,10 @@ We aim to evaluate whether such synthetic data can help improve classification m
 ## Project structure 
 
 ```
-.
-├── diffusion_models/                # Pretrained or trained diffusion model checkpoints
+├── diffusion_models/                # Trained diffusion model checkpoints
 ├── Diffusion_models_training.ipynb # Notebook for training and generating images using diffusion models
-├── GMM_testing.ipynb               # Testing classifier performance (e.g., GMM-based approach)
+├── GMM_testing.ipynb               # GMM-based approach to test generation
 ├── ViT_model_training.ipynb        # Vision Transformer training on original and synthetic datasets
-├── requirements.txt                # Python dependencies
-└── README.md                       # Project description and instructions
+├── requirements.txt                # Dependencies
+└── README.md                       # Project description
 ```
